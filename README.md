@@ -74,3 +74,13 @@ To get this Football Tactics Board running on your local machine:
 * **Pygame Fundamentals:** Gained hands-on experience with Pygame for initializing, creating windows, loading/scaling images, and handling basic drawing operations.
   
 * **Event Handling:** Implemented mouse event handling (`MOUSEBUTTONDOWN`, `MOUSEBUTTONUP`,
+
+---
+
+## 📞 Contact
+
+Feel free to connect with me:
+
+* **GitHub:** [github.com/leilas25](https://github.com/leilas25)
+* **LinkedIn:** https://www.linkedin.com/in/leila-sono
+* **Email:** leilasono1@gmail.com
