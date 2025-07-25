@@ -1,6 +1,6 @@
 # ⚽ Football Tactics Board (Pygame) 🥅
 
-![Tactics Board Screenshot/GIF](https://via.placeholder.com/600x350?text=Screenshot+or+GIF+of+Tactics+Board+in+Action)
+![Tactics Board Screenshots](https://www.canva.com/design/DAGuK2zbjHE/e87WtIcKKAfwQT9UoIwjbA/edit?utm_content=DAGuK2zbjHE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
