@@ -2,6 +2,9 @@
 
 ![Tactics Board Screenshots](https://github.com/leilas25/Football-Tactics-Board/blob/main/Screenshot%20(608).png?raw=true)
 
+![Tactics Board Screenshots](https://github.com/leilas25/Football-Tactics-Board/blob/main/Screenshot%20(608).png?raw=true)
+
+
 ---
 
 ## ✨ Project Overview
